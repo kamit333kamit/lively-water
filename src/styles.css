@@ -1,0 +1,27 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.single-item {
+  margin-top: 10px;
+  border: 2px solid black;
+  border-radius: 5px;
+  padding: 3px;
+  cursor: pointer;
+}
+
+.single-post {
+  margin-top: 10px;
+  border: 2px solid black;
+  border-radius: 5px;
+  padding: 3px;
+}
+
+.buttons-container {
+  display: flex;
+}
+
+.post-container {
+  padding: 15px;
+}
